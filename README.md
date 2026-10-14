@@ -1,4 +1,4 @@
-# my-project
+# russian_case_trainer
 
 A new project.
 
